@@ -1,3 +1,3 @@
 # WPScan-Penetration
 
-Install Kali Linux and DVWA VM
+Install Docker  and DVWA Browser
